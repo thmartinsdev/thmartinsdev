@@ -22,3 +22,11 @@
 
 Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar meus repositórios e LinkedIn.
 
+
+<div></div>
+##
+  
+### Network Social
+<div>
+<a href="https://www.instagram.com/thiagomts7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/devthiagobarros/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
