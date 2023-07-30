@@ -1,16 +1,24 @@
-### Hi there 👋
+<table>
+    <tr>
+        <td width="20%">
+            <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+        </td>
+        <td width="60%" align="center">
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /></code>
+            <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /></code>
+        </td>
+        <td width="20%">
+            <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
+        </td>
+    </tr>
+</table>
 
-<!--
-**thmartinsdev/thmartinsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100">
 
-Here are some ideas to get you started:
+### Olá! Meu nome é Thiago.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho um grande interesse por programação, e estou sempre buscando aprender mais sobre. Neste perfil, você encontrará alguns dos meus projetos pessoais. Se quiser saber mais sobre meus projetos ou experiências profissionais, sinta-se à vontade para explorar meus repositórios e LinkedIn.
+
