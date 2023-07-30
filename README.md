@@ -24,7 +24,6 @@ Tenho um grande interesse por programação, e estou sempre buscando aprender ma
 
 
 <div></div>
-##
   
 ### Network Social
 <div>
